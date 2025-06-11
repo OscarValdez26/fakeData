@@ -1,0 +1,21 @@
+{
+  "name": "t5-fakedata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "client",
+    "backend"
+  ],
+  "scripts": {
+    "install-all": "npm install && npm install --workspace client && npm install --workspace backend",
+    "dev": "concurrently \"npm run dev --workspace backend\" \"npm run dev --workspace client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
