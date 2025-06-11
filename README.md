@@ -16,6 +16,8 @@ seleccionar la región de origen, establecer una semilla para generar datos repr
 
 ## 📸 Capturas
 
+![Vista principal](./screenshots/main.png)
+
 ---
 
 ## 🛠️ Instalación y ejecución local
