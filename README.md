@@ -18,6 +18,8 @@ seleccionar la región de origen, establecer una semilla para generar datos repr
 
 ![Vista principal](./screenshots/main.png)
 
+![Vista export](./screenshots/export.png)
+
 ---
 
 ## 🛠️ Instalación y ejecución local
