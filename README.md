@@ -26,7 +26,7 @@ seleccionar la región de origen, establecer una semilla para generar datos repr
 
 1. **Clonar repositorio**
 
-   git clone https://github.com/OscarValdez26/fakeData.git
+   git clone https://github.com/OscarValdez26/fakeData.git //Clonar repositorio
 
 2. **Acceder al repositorio descargado**
    cd fakeData
