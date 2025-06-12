@@ -24,15 +24,7 @@ seleccionar la región de origen, establecer una semilla para generar datos repr
 
 ## 🛠️ Instalación y ejecución local
 
-1. **Clonar repositorio**
-
-   git clone https://github.com/OscarValdez26/fakeData.git //Clonar repositorio
-
-2. **Acceder al repositorio descargado**
-   cd fakeData
-
-3. **Instalar todas las dependencias**
-   npm run install-all
-
-4. **Ejecutar en entorno local**
-   npm run dev
+- git clone https://github.com/OscarValdez26/fakeData.git 
+- cd fakeData
+- npm run install-all
+- npm run dev
